@@ -1,3 +1,3 @@
 # Learning-git
 
-Learning git from AmigosCode course
+Learning git and having fun!
