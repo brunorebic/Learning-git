@@ -1,5 +1,3 @@
 # Learning-git
 
-Learning git and having fun!
-
-https://amigoscode.com/p/git-github
+Learning git from Amigos code course and having fun!
